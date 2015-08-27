@@ -1,0 +1,1 @@
+Font rendering as a Head-up Display (HUD). The use of the blf (Blender font rendering) and bgl (Blender OpenGL bindings) modules to draw text with different colors in a running Blender Game Engine instance.
